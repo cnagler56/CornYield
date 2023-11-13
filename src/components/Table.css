@@ -1,0 +1,27 @@
+body {
+    background-color:gainsboro;
+    /* height:100%; */
+    margin:0;
+}
+
+.hdrs {
+    color:rgb(19, 17, 17)
+}
+
+td {
+    color:black;
+    /* text-align:center; */
+}
+.label {
+    color:black;
+    min-width:8em;
+}
+.table-responsive {
+    max-height:10px;
+    overflow-x:scroll;
+}
+
+.inputs { 
+    background-color: "yellow";
+        min-width: "5em";
+     }
